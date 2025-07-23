@@ -356,7 +356,6 @@ public class CalculatorForm : Form
 
     private void CEClick(object sender, EventArgs e)
     {
-        // Method removes only current number
         textBoxResult.Text = "0";
     }
 
@@ -395,7 +394,7 @@ public class CalculatorForm : Form
                 textBoxResult.Text = HandleClickDivide();
                 break;
             default:
-                break;
+                return;
         }
     }
 }
