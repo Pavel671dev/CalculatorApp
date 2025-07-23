@@ -12,3 +12,4 @@ C:\Users\darboux1408\RiderProjects\CalculatorApp\CalculatorApp\obj\Debug\net8.0-
 C:\Users\darboux1408\RiderProjects\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.pdb
 C:\Users\darboux1408\RiderProjects\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.genruntimeconfig.cache
 C:\Users\darboux1408\RiderProjects\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\ref\CalculatorApp.dll
+C:\Users\darboux1408\RiderProjects\CalculatorApp\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.sourcelink.json
