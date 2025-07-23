@@ -12,5 +12,6 @@
 /dataSources/
 /dataSources.local.xml
 
-./CalculatorApp/obj/
+/CalculatorApp/obj/
 /CalculatorApp/bin/
+/CalculatorApp/obj/Debug/net8.0-windows/
