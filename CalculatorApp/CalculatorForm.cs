@@ -1,5 +1,3 @@
-using System.Diagnostics.Eventing.Reader;
-
 namespace CalculatorApp;
 
 public class CalculatorForm : Form
