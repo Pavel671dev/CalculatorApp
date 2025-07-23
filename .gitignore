@@ -12,5 +12,13 @@
 /dataSources/
 /dataSources.local.xml
 
+
 /CalculatorApp/obj/
 /CalculatorApp/bin/
+
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
